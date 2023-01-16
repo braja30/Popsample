@@ -1,0 +1,9 @@
+2022-12-26 19:39:33,727 [INFO ] com.popmoney.step_definitions.Common_step_definition [main] ******************Execution Started ********************************
+2022-12-26 19:39:33,824 [INFO ] com.popmoney.step_definitions.Common_step_definition [main] Instantiation the CommonUtiles
+2022-12-26 19:39:33,825 [INFO ] com.popmoney.step_definitions.Common_step_definition [main] Loading the load properties
+2022-12-26 19:39:33,842 [INFO ] com.popmoney.step_definitions.Common_step_definition [main] Checking the driver is NULL or NOT?
+2022-12-26 19:39:33,846 [INFO ] com.popmoney.step_definitions.Common_step_definition [main] Driver is NULL ,Instantiating it!
+2022-12-26 19:40:17,556 [INFO ] com.popmoney.webdriver_manager.DriverManager [main] Launching chrome
+2022-12-26 19:41:09,841 [INFO ] com.popmoney.step_definitions.SignUp_Step_definition [main] Select Ally Bank and submit
+2022-12-26 19:41:27,749 [INFO ] com.popmoney.step_definitions.SignUp_Step_definition [main] Enter First name ,last name and click Next
+2022-12-26 19:41:37,397 [INFO ] com.popmoney.step_definitions.SignUp_Step_definition [main] Enter all required information for create a profile page and click SignUp
